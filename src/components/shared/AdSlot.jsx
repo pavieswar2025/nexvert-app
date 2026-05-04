@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 
 // Replace with your actual AdSense publisher ID
-const ADSENSE_CLIENT = 'ca-pub-XXXXXXXXXXXXXXXXX';
+const ADSENSE_CLIENT = 'ca-pub-7283492341344979';
 
 export default function AdSlot({ slot, format = 'auto', size = 'leaderboard', style = {} }) {
   const ref = useRef();
