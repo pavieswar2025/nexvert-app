@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Rounded square background -->
+  <rect width="64" height="64" rx="12" fill="#1c1c1c"/>
+  <!-- N mark — left stroke -->
+  <rect x="10" y="11" width="9" height="42" fill="#f0ede8"/>
+  <!-- N mark — right stroke -->
+  <rect x="45" y="11" width="9" height="42" fill="#f0ede8"/>
+  <!-- N mark — diagonal -->
+  <polygon points="19,11 28,11 54,53 45,53" fill="#f0ede8"/>
+  <!-- Arrow accent — orange forward arrow -->
+  <polygon points="43,12 58,27 43,42 43,33 31,33 31,21 43,21" fill="#ff5c35"/>
+</svg>
