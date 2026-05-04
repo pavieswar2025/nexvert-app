@@ -100,7 +100,7 @@ export default function App() {
           </button>
         </div>
         <div style={{ padding: '8px 0', borderTop: '1px solid var(--border)' }}>
-          <AdSlot slot="XXXXXXXXXX" format="auto" size="leaderboard" />
+          <AdSlot slot="2135354141" format="auto" size="leaderboard" />
         </div>
       </header>
 
@@ -145,7 +145,7 @@ export default function App() {
             </div>
           ))}
           <div style={{ marginTop: 24 }}>
-            <AdSlot slot="XXXXXXXXXX" size="rectangle" style={{ width: '100%', height: 200 }} />
+            <AdSlot slot="2626308736" size="rectangle" style={{ width: '100%', height: 200 }} />
           </div>
         </aside>
 
@@ -158,7 +158,7 @@ export default function App() {
 
           {/* Mid-page ad */}
           <div style={{ marginTop: 32, display: 'flex', justifyContent: 'center' }}>
-            <AdSlot slot="XXXXXXXXXX" size="leaderboard" />
+            <AdSlot slot="9672122871" size="leaderboard" />
           </div>
 
           {/* Related tools */}
